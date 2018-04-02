@@ -1,0 +1,9 @@
+name: IpsAuth
+version: ${project.version}
+main: pl.skript.ipsauth.IpsAuthPlugin
+author: Ixidi
+commands:
+  login:
+    description: "Logowanie."
+  ipsauth:
+    description: "Komenda administracyjna."
